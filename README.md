@@ -1,4 +1,5 @@
 Blinkit Sales Analysis Dashboard – Power BI
+
 📊 Project Overview
 
 This project focuses on analyzing Blinkit sales data using Power BI to uncover meaningful insights into sales performance, product categories, outlet performance, customer preferences, and other key business metrics.
@@ -63,19 +64,6 @@ Customer preferences based on item characteristics.
 Sales patterns and trends across different dimensions.
 Areas where business performance can potentially be improved.
 
-📁 Project Structure
-Blinkit-Sales-Analysis-PowerBI/
-│
-├── Dataset/
-│   └── blinkit_sales_data.csv
-│
-├── PowerBI/
-│   └── Blinkit_Sales_Analysis.pbix
-│
-├── Dashboard/
-│   └── dashboard_screenshot.png
-│
-└── README.md
 
 🚀 Conclusion
 
