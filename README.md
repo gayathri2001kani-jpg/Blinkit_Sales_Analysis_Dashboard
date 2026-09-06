@@ -13,6 +13,7 @@ Understand customer purchasing patterns and preferences.
 Analyze outlet establishment trends and performance.
 Track key performance indicators (KPIs) through interactive dashboards.
 Provide actionable insights to support data-driven business decisions.
+
 🏗️ Data Modeling – Galaxy Schema
 
 The project uses a Galaxy Schema consisting of multiple fact tables connected through shared dimension tables.
@@ -50,6 +51,7 @@ DAX
 Data Modeling
 Galaxy Schema / Fact Constellation Schema
 Microsoft Excel / CSV
+
 🔍 Key Insights
 
 The dashboard helps identify:
@@ -60,6 +62,7 @@ How outlet size and location affect sales performance.
 Customer preferences based on item characteristics.
 Sales patterns and trends across different dimensions.
 Areas where business performance can potentially be improved.
+
 📁 Project Structure
 Blinkit-Sales-Analysis-PowerBI/
 │
