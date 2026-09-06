@@ -7,6 +7,7 @@ This project focuses on analyzing Blinkit sales data using Power BI to uncover m
 The dashboard is designed using a Galaxy Schema (Fact Constellation Schema), which allows multiple fact tables to share common dimension tables. This approach provides a scalable and structured data model for performing detailed analysis across different business processes.
 
 🎯 Objectives
+
 Analyze overall sales and revenue performance.
 Identify top-performing product categories and items.
 Compare sales performance across different outlet types and locations.
