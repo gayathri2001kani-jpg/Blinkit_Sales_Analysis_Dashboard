@@ -71,7 +71,7 @@ The Power BI dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Blinkit Sales Analysis Dashboard](Blinkit_Dashboard.png)
+![Blinkit Sales Analysis Dashboard](Blinkit_Sales_Analysis_Dashboard.png)
 
 ---
 
